@@ -1,3 +1,5 @@
 1- ip a sh
 2- ifconfig
-3- 
+3- sudo wireshark
+4- arp -a
+ 
