@@ -2,4 +2,7 @@
 2- ifconfig
 3- sudo wireshark
 4- arp -a
+5- UDP
+6- TCP
+7- 
  
