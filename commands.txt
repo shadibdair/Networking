@@ -11,4 +11,4 @@
 11- sudo tcpdump 
 12- sudo tcpdump -nn icmp
 13- nslookup panet.co.il
-
+14- DNS
