@@ -3,3 +3,5 @@ Commands
 1- ip route | grep default
 # On macbook
    netstat -nr
+# Track the route
+   traceroute -n 8.8.8.8
