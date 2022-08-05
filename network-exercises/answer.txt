@@ -1,3 +1,4 @@
 Commands
-1- ip route
+# default gateway (router) IP address
+1- ip route | grep default
 2- 
