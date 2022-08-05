@@ -1,4 +1,5 @@
 Commands
 # default gateway (router) IP address
 1- ip route | grep default
-2- 
+# On macbook
+   netstat -nr
